@@ -14,6 +14,8 @@ public class SampleProject {
 		
 		System.out.println("valimai");
 		
+		System.out.println("vivegam");
+		
 		
 	}
 
